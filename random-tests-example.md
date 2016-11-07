@@ -33,4 +33,5 @@ for (var i = 0; i < 10; i++) {
   // Compare user's function with a working solution
   Test.assertEquals(sumUser(a, b), sumKataAuthor(a, b));
 }
+
 ```
