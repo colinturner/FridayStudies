@@ -1,1 +1,2 @@
-# Random tests example
+## Random Tests - Codewars - A Full Example
+
