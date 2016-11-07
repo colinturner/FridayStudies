@@ -30,8 +30,8 @@ for (var i = 0; i < 10; i++) {
   var a = getRandomNumber(0, 100);
   var b = getRandomNumber(0, 100);
   
-  // Adding `console.log` may help the user understand and debug 
-  // their solution: 
+  // Adding console.log of the inputs used in the test may help
+  // the user understand and debug their solution: 
   console.log('input a was:', a, 'input b was:', b);
   
   // Compare user's function with a working solution:
